@@ -1,11 +1,11 @@
-  //project_name : CypherX
+  //project_name : DEMON-XD
 // @author : TYLOR
-// @youtube : https://www.youtube.com/@heyits_tylor
-// @instagram : heyits_tylor
-// @telegram : t.me/heyits_tylor
-// @github : Dark-Xploit
-// @tiktok : heyits_tylor
-// @whatsapp : +254754783972
+// @youtube : DEMON-XD
+// @instagram : DEMON-XD
+// @telegram : DEMOM-XD
+// @github : DEMON-XD
+// @tiktok : DEMON-XD
+// @whatsapp : +918617018319
 //*
 //* 
 //=================================================//
@@ -19,11 +19,11 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 //Enter your Xploader session id here; must start with XPLOADER-BOT:~
 
 //=================================================//
-global.botname = process.env.BOT_NAME || 'CypherX' 
+global.botname = process.env.BOT_NAME || 'DEMON-XD' 
 //Your desired bot name
 
 //=================================================//
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '918617018319' 
 //Type your main number here
 
 //=================================================//
@@ -39,10 +39,10 @@ global.ownername = process.env.OWNER_NAME || 'Tylor'
 global.plink = process.env.PLINK || "https://www.instagram.com/heyits_tylor?igsh=YzljYTk1ODg3Zg=="
 
 //=================================================//
-global.wm = process.env.GL_WM || "©CypherX"
+global.wm = process.env.GL_WM || "©DEMON-XD"
 
 //=================================================//
-global.packname = process.env.STICKER_PACK_NAME || "Cypher" 
+global.packname = process.env.STICKER_PACK_NAME || "DEMON" 
 //The sticker pack name
 
 //=================================================//
@@ -65,7 +65,7 @@ global.statusemoji = process.env.STATUS_EMOJI || '🧡'
 //Enter the emoji that you wish to be reacted to statuses 
 
 //=================================================//
-global.autoviewstatus = process.env.AUTO_STATUS_VIEW || 'true'
+global.autoviewstatus = process.env.AUTO_STATUS_VIEW || 'false'
 // set true to enable and false to disable auto status view
 
 //=================================================//
@@ -78,7 +78,7 @@ global.alwaysonline = process.env.ALWAYS_ONLINE || 'true'
 
 
 //=================================================//
-global.chatbot = process.env.CHATBOT || 'false'
+global.chatbot = process.env.CHATBOT || 'true'
 // set true to enable and false to disable auto ai chatbot
 
 //=================================================//
@@ -100,7 +100,7 @@ global.anticall = process.env.ANTI_CALL || 'false'
 // set true to enable and false to disable auto blocking of callers
 
 //=================================================//
-global.welcome = process.env.WELCOME_MSG || 'false'
+global.welcome = process.env.WELCOME_MSG || 'true'
 // set true to enable and false to disable welcoming and left messages to groups upon joining or leaving groups
 
 //=================================================//
